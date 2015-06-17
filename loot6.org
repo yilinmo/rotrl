@@ -1,0 +1,37 @@
+* XP
+  1500 xp, total 5940/6000xp
+* Loot
+  | item                                 | value(gp) |
+  |--------------------------------------+-----------|
+  | +1 Short Sword (small)               |      2300 |
+  | Masterwork Breastplate (small)       |       350 |
+  | Dented Crown                         |        20 |
+  | Masterwork Dogslicer                 |       300 |
+  | 7432cp                               |        74 |
+  | 2490sp                               |       249 |
+  | 89gp                                 |        89 |
+  | 3pp                                  |        30 |
+  | 34 flawed malachites                 |        34 |
+  | chain shirt                          |       100 |
+  | Masterwork Scimitar                  |       300 |
+  | a pair of masterwork manacles        |       100 |
+  | jade necklace                        |        60 |
+  | fine blue silk gown with silver trim |       150 |
+  | gold holy symbol of Sarenrae         |       100 |
+  | silver holy symbol of Lamashtu       |        40 |
+  | Potion of CMW *2                     |           |
+  |--------------------------------------+-----------|
+  | Total                                |      4296 |
+* Contribution Point
+  | Hayls | 5 |
+  | Tod   | 6 |
+  | Jozan | 6 |
+  | Aias  | 4 |
+  | Maria | 0 |
+* Hero Point
+  | Sarah | 2/3 |
+  | Hayls | 2/3 |
+  | Maria | 0/3 |
+  | Tod   | 3/3 |
+  | Aias  | 3/3 |
+  | Jozan | 3/3 |

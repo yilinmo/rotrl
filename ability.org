@@ -1,0 +1,89 @@
+* Sarah
+** Lv 0
+   - In Book
+     - Ray of Frost
+     - Detect Magic
+     - Ghost Sound
+** Lv 1
+   - Prepared [2/4]
+     - [X] Magic Armor
+     - [X] Summoning Monster I
+     - [ ] Summoning Monster I
+     - [ ] Grease
+   - In Book
+     - Grease
+     - Magic Armor
+     - Summoning Monster I
+     - Expeditious Retreat
+     - Magic Missile
+     - Shield
+     - Feather Fall
+     - Obscuring Mist
+     - Silent Image
+** Lv 2
+   - Prepared [0/3]
+     - [ ] Invisibility
+     - [ ] Web
+     - [ ] Web
+   - In Book
+     - Web
+     - Invisibility
+
+* Jozan
+** Class Ability
+   - Channel Energy [3/4]
+     - [X]
+     - [X]
+     - [X]
+     - [ ]
+** Lv 1
+   - Prepared [2/4]
+     - [X] PFE
+     - [X] PFE
+     - [ ] Cause Fear
+     - [ ] Domain
+   - Domain Spell
+     - Erase
+     - Identify
+** Lv 2
+   - Prepared [0/3]
+     - [ ] Hold Person
+     - [ ] Sound Burst
+     - [ ] Domain
+   - Domain Spell
+     - Secret Page
+     - Magic Mouth
+
+* Achi
+** Lv 0
+   - Known
+     - Dancing Light
+     - Daze
+     - Summon Instrument
+     - Lullaby
+     - Ghost Sound
+     - Read Magic
+       
+** Lv 1
+   - Prepared [1/4]
+     - [X]
+     - [ ]
+     - [ ]
+     - [ ]
+   - Known
+     - Grease
+     - Hideous Laughter
+     - Cure light wounds
+     - Expeditious Retreat
+
+* Pally
+** Class Ability
+   - Smite Evil [1/1]
+     - [X]
+   - Lay on Hands [2/5]
+     - [X]
+     - [ ]
+     - [X]
+     - [ ]
+     - [ ]
+
