@@ -23,7 +23,7 @@
   | Wand of Produced Flame(33 charge)    |       495 |             |
   | Potion of CMW *2                     |           |             |
   |--------------------------------------+-----------+-------------|
-  | Total                                |     17751 |       274.5 |
+  | *Total*                              |     17751 |       274.5 |
   #+TBLFM: @23$2=vsum(@2$2..@22$2)::@23$3=vsum(@2$3..@22$3)
 
 * Tod
@@ -40,7 +40,7 @@
  |              | Potion of CMW       |        |
  |              | Arrow*20            |      3 |
  |--------------+---------------------+--------|
- | Total        |                     |     50 |
+ | *Total*      |                     |     50 |
 #+TBLFM: @12$3=vsum(@2..@11)
 * Halys
  | Slot       | Item                      | Weight |
@@ -57,7 +57,7 @@
  | Others     |                           |        |
  |            | Masterwork Thieves' Tools |      2 |
  |------------+---------------------------+--------|
- | Total      |                           |     32 |
+ | *Total*    |                           |     32 |
 #+TBLFM: @13$3=vsum(@2..@12)
 * Jozan
  | Slot       | Item                | Weight |
@@ -71,7 +71,7 @@
  | Consumable |                     |        |
  |            | Scroll of CLW       |        |
  |------------+---------------------+--------|
- | Total      |                     |     62 |
+ | *Total*    |                     |     62 |
 #+TBLFM: @10$3=vsum(@2..@9)
 * Aias
  | Slot       | Item                     | Weight |
@@ -83,7 +83,7 @@
  | Consumable |                          |        |
  |            | Arrow*20                 |      3 |
  |------------+--------------------------+--------|
- | Total      |                          |     30 |
+ | *Total*    |                          |     30 |
 #+TBLFM: @8$3=vsum(@2..@7)
 * Maria
  | Slot       | Item                   | Weight |
@@ -97,7 +97,7 @@
  | Consumable |                        |        |
  |            | Arror*20               |      3 |
  |------------+------------------------+--------|
- | Total      |                        |     30 |
+ | *Total*    |                        |     30 |
 #+TBLFM: @10$3=vsum(@2..@9)
 * Sarah 
  | Slot       | Item                   | Weight |
@@ -111,5 +111,5 @@
  |            | Spell book             |      3 |
  |            | Spell component Pouch  |      2 |
  |------------+------------------------+--------|
- | Total      |                        |     10 |
+ | *Total*    |                        |     10 |
  #+TBLFM: @10$3=vsum(@2..@9)
