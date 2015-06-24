@@ -22,6 +22,7 @@
   | Potion of CMW *2                     |           |
   |--------------------------------------+-----------|
   | Total                                |      4296 |
+#+TBLFM: @19$2=vsum(@2$2..@18$2)
 * Contribution Point
   | Hayls | 5 |
   | Tod   | 6 |
