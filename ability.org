@@ -5,10 +5,10 @@
      - Detect Magic
      - Ghost Sound
 ** Lv 1
-   - Prepared [2/4]
+   - Prepared [3/4]
      - [X] Magic Armor
      - [X] Summoning Monster I
-     - [ ] Summoning Monster I
+     - [X] Summoning Monster I
      - [ ] Grease
    - In Book
      - Grease
@@ -31,10 +31,10 @@
 
 * Jozan
 ** Class Ability
-   - Channel Energy [3/4]
+   - Channel Energy [1/4]
      - [X]
-     - [X]
-     - [X]
+     - [ ]
+     - [ ]
      - [ ]
 ** Lv 1
    - Prepared [2/4]
@@ -54,6 +54,9 @@
      - Secret Page
      - Magic Mouth
 
+** Consumable 
+
+CLW [5/50]
 * Achi
 ** Lv 0
    - Known
@@ -65,11 +68,11 @@
      - Read Magic
        
 ** Lv 1
-   - Prepared [1/4]
+   - Prepared [4/4]
      - [X]
-     - [ ]
-     - [ ]
-     - [ ]
+     - [X]
+     - [X]
+     - [X]
    - Known
      - Grease
      - Hideous Laughter
@@ -80,10 +83,10 @@
 ** Class Ability
    - Smite Evil [1/1]
      - [X]
-   - Lay on Hands [2/5]
+   - Lay on Hands [4/5]
      - [X]
      - [X]
-     - [ ]
-     - [ ]
+     - [X]
+     - [X]
      - [ ]
 

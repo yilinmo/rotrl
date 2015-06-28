@@ -1,38 +1,25 @@
 * Shared
-  | item                                 | value(gp) | weight(lbs) |
-  |--------------------------------------+-----------+-------------|
-  | +1 Short Sword (small)               |      2300 |           2 |
-  | Masterwork Breastplate (small)       |       350 |          30 |
-  | Dented Crown                         |        20 |             |
-  | Masterwork Dogslicer                 |       300 |           1 |
-  | 7432cp                               |        74 |         148 |
-  | 2490sp                               |       249 |          50 |
-  | 99gp                                 |        99 |           2 |
-  | 3pp                                  |        30 |             |
-  | 34 flawed malachites                 |        34 |             |
-  | chain shirt                          |       100 |          25 |
-  | Masterwork Scimitar                  |       300 |           4 |
-  | a pair of masterwork manacles        |        50 |           2 |
-  | jade necklace                        |        60 |             |
-  | fine blue silk gown with silver trim |       150 |             |
-  | gold holy symbol of Sarenrae         |       100 |           1 |
-  | silver holy symbol of Lamashtu       |        40 |           1 |
-  | +1 returning dagger, cold iron(tiny) |     10000 |             |
-  | +1 Leather Armor(small)              |      2000 |         7.5 |
-  | +1 Cloak of Resistance               |      1000 |           1 |
-  | Wand of Produced Flame(33 charge)    |       495 |             |
-  | Potion of CMW *2                     |           |             |
-  |--------------------------------------+-----------+-------------|
-  | *Total*                              |     17751 |       274.5 |
-  #+TBLFM: @23$2=vsum(@2$2..@22$2)::@23$3=vsum(@2$3..@22$3)
-
+  | item                                   | value(gp) | weight(lbs) |
+  |----------------------------------------+-----------+-------------|
+  | +1 returning dagger, cold iron(tiny)   |     10000 |             |
+  | 940gp                                  |       915 |          19 |
+  | 4pp                                    |        40 |             |
+  | Mwk Composite Longbow (+4 str)         |       800 |           3 |
+  | +1 Elven Bane Arrow *4                 |       640 |             |
+  | (+2 hit and +2d6 damage against elves) |           |             |
+  | Everburning torch                      |           |           1 |
+  |----------------------------------------+-----------+-------------|
+  | *Total*                                |      2395 |          23 |
+  #+TBLFM: @9$2=vsum(@3$2..@8$2)::@9$3=vsum(@3$3..@8$3)
 * Tod
  | Slot         | Item                | Weight |
  |--------------+---------------------+--------|
- | Armor        | Half Plate          |     30 |
- | Shield       | Heavy Wooden        |     10 |
+ | Armor        | +1 Banded Mail      |     35 |
+ | Shield       | +1 Heavy Wooden     |     10 |
+ | Shoulder     | +1 Resistance Cloak |      1 |
  | Ring         | +1 Deflection       |        |
  | Weapon       |                     |        |
+ |              | Mwk Scimitar        |      4 |
  |              | Scimitar, Cold Iron |      4 |
  |              | Longbow             |      3 |
  | Consumeables |                     |        |
@@ -40,39 +27,42 @@
  |              | Potion of CMW       |        |
  |              | Arrow*20            |      3 |
  |--------------+---------------------+--------|
- | *Total*      |                     |     50 |
-#+TBLFM: @12$3=vsum(@2..@11)
+ | *Total*      |                     |     60 |
+#+TBLFM: @14$3=vsum(@2..@13)
 * Halys
  | Slot       | Item                      | Weight |
  |------------+---------------------------+--------|
+ | Shoulder   | +1 Resistance Cloak       |      1 |
  | Armor      | Studded Leather           |     20 |
  | Weapon     |                           |        |
- |            | Shortsword, Cold Iron     |      2 |
- |            | Shortsword, Cold Iron     |      2 |
+ |            | mwk Shortsword, Cold Iron |      2 |
+ |            | mwk Shortsword, Cold Iron |      2 |
  |            | Dagger, Silver            |      1 |
  |            | Shortbow                  |      2 |
  | Consumable |                           |        |
- |            | Potion of CLW             |        |
+ |            | Potion of CMW             |        |
  |            | Arrow*20                  |      3 |
  | Others     |                           |        |
  |            | Masterwork Thieves' Tools |      2 |
  |------------+---------------------------+--------|
- | *Total*    |                           |     32 |
-#+TBLFM: @13$3=vsum(@2..@12)
+ | *Total*    |                           |     33 |
+#+TBLFM: @14$3=vsum(@2..@13)
 * Jozan
- | Slot       | Item                | Weight |
- |------------+---------------------+--------|
- | Armor      | Chain Mail          |     40 |
- | Shield     | Heavy Wooden Shield |     10 |
- | Weapon     |                     |        |
- |            | Sling + Bullet      |      5 |
- |            | Morning Star        |      6 |
- |            | Dagger              |      1 |
- | Consumable |                     |        |
- |            | Scroll of CLW       |        |
- |------------+---------------------+--------|
- | *Total*    |                     |     62 |
-#+TBLFM: @10$3=vsum(@2..@9)
+ | Slot       | Item                 | Weight |
+ |------------+----------------------+--------|
+ | Armor      | Mwk Breastplate      |     30 |
+ | Shield     | +1 Darkwood Shield   |      5 |
+ | Shoulder   | +1 Resistance Cloak  |      1 |
+ | Weapon     |                      |        |
+ |            | Sling + Bullet       |      5 |
+ |            | Morning Star         |      6 |
+ |            | Dagger               |      1 |
+ | Consumable |                      |        |
+ |            | Scroll of CLW        |        |
+ |            | CLW Wand (45 Charge) |        |
+ |------------+----------------------+--------|
+ | *Total*    |                      |     48 |
+#+TBLFM: @12$3=vsum(@2..@11)
 * Aias
  | Slot       | Item                     | Weight |
  |------------+--------------------------+--------|
@@ -105,7 +95,7 @@
  | Weapon     |                        |        |
  |            | Staff                  |      5 |
  | Consumable |                        |        |
- |            | Scroll of Mage Armor*2 |        |
+ |            | Scroll of Mage Armor*3 |        |
  |            | Scroll of Burning Hand |        |
  | others     |                        |        |
  |            | Spell book             |      3 |
