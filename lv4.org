@@ -1,0 +1,18 @@
+* Maria
+** 2 Level 2 Spell
+* Hayls
+** Rogue Talent
+* Jozan
+** Roll HP
+* Tod
+** Roll HP
+** Bonus Feat
+* All
+** Favored Class: +1 HP or +1 Skill Point
+** +1 Ability
+|          | str | dex | con | int | wis | cha |
+| Maria    |  10 |  13 |  14 |  12 |   8 |  18 |
+| Hayls    |  10 |  19 |  14 |  12 |  12 |   7 |
+| Jozan    |  10 |  14 |  14 |  10 |  18 |   8 |
+| Rho Aias |  12 |  15 |  12 |  10 |   8 |  18 |
+| Tod      |  14 |  14 |  16 |  10 |  12 |   6 |
