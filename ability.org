@@ -68,7 +68,7 @@ CLW [5/50]
      - Read Magic
        
 ** Lv 1
-   - Prepared [4/4]
+   - Slot [4/4]
      - [X]
      - [X]
      - [X]
@@ -78,7 +78,13 @@ CLW [5/50]
      - Hideous Laughter
      - Cure light wounds
      - Expeditious Retreat
-
+** Lv 2
+   - Slot [0/2]
+     - [ ]
+     - [ ]
+   - Known
+     - Glitter Dust: Will DC 16
+     - Hold Person: Will DC 16
 * Pally
 ** Class Ability
    - Smite Evil [1/1]
