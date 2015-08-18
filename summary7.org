@@ -2,7 +2,7 @@
   960 xp, total 6900/10000xp
 * Contribution Point
   | Hayls | 6 |
-  | Tod   | 7 |
+  | Tod   | 9 |
   | Jozan | 7 |
   | Aias  | 4 |
   | Maria | 0 |
