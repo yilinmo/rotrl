@@ -7,9 +7,9 @@
   | Aias  | 6 |
   | Maria | 0 |
 * Hero Point
-  | Sarah | 2/3 |
-  | Hayls | 2/3 |
-  | Maria | 0/3 |
+  | Sarah | 3/3 |
+  | Hayls | 3/3 |
+  | Maria | 1/3 |
   | Tod   | 3/3 |
-  | Aias  | 2/3 |
-  | Jozan | 2/3 |
+  | Aias  | 3/3 |
+  | Jozan | 3/3 |
