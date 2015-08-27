@@ -4,7 +4,7 @@
   | Hayls | 6 |
   | Tod   | 9 |
   | Jozan | 7 |
-  | Aias  | 4 |
+  | Aias  | 6 |
   | Maria | 0 |
 * Hero Point
   | Sarah | 2/3 |
