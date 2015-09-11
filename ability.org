@@ -5,11 +5,12 @@
      - Detect Magic
      - Ghost Sound
 ** Lv 1
-   - Prepared [3/4]
-     - [X] Magic Armor
-     - [X] Summoning Monster I
-     - [X] Summoning Monster I
-     - [ ] Grease
+   - Prepared [0/5]
+     - [ ] 
+     - [ ] 
+     - [ ] 
+     - [ ] 
+     - [ ] 
    - In Book
      - Grease
      - Magic Armor
@@ -21,34 +22,39 @@
      - Obscuring Mist
      - Silent Image
 ** Lv 2
-   - Prepared [0/3]
-     - [ ] Invisibility
-     - [ ] Web
-     - [ ] Web
+   - Prepared [0/4]
+     - [ ] 
+     - [ ] 
+     - [ ] 
+     - [ ] 
    - In Book
      - Web
      - Invisibility
+     - Glittering Dust
+     - Rope Trick
 
 * Jozan
 ** Class Ability
-   - Channel Energy [1/4]
-     - [X]
+   - Channel Energy [0/4]
+     - [ ]
      - [ ]
      - [ ]
      - [ ]
 ** Lv 1
-   - Prepared [2/4]
-     - [X] PFE
-     - [X] PFE
-     - [ ] Cause Fear
+   - Prepared [0/5]
+     - [ ] 
+     - [ ] 
+     - [ ] 
+     - [ ] 
      - [ ] Domain
    - Domain Spell
      - Erase
      - Identify
 ** Lv 2
-   - Prepared [0/3]
-     - [ ] Hold Person
-     - [ ] Sound Burst
+   - Prepared [0/4]
+     - [ ] 
+     - [ ] 
+     - [ ] 
      - [ ] Domain
    - Domain Spell
      - Secret Page
@@ -68,11 +74,11 @@ CLW [5/50]
      - Read Magic
        
 ** Lv 1
-   - Slot [4/4]
-     - [X]
-     - [X]
-     - [X]
-     - [X]
+   - Slot [0/4]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
    - Known
      - Grease
      - Hideous Laughter
@@ -87,12 +93,21 @@ CLW [5/50]
      - Hold Person: Will DC 16
 * Pally
 ** Class Ability
-   - Smite Evil [1/1]
-     - [X]
-   - Lay on Hands [4/5]
-     - [X]
-     - [X]
-     - [X]
-     - [X]
+   - Smite Evil [0/2]
      - [ ]
-
+     - [ ]
+   - Lay on Hands [0/6]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
+   - Channel Energy [0/7]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
