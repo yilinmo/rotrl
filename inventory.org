@@ -2,14 +2,14 @@
   | item                                   | value(gp) | weight(lbs) |
   |----------------------------------------+-----------+-------------|
   | +1 returning dagger, cold iron(tiny)   |     10000 |             |
-  | 940gp                                  |       915 |          19 |
+  | 940gp                                  |       940 |          19 |
   | 4pp                                    |        40 |             |
   | Mwk Composite Longbow (+4 str)         |       800 |           3 |
   | +1 Elven Bane Arrow *4                 |       640 |             |
   | (+2 hit and +2d6 damage against elves) |           |             |
   | Everburning torch                      |           |           1 |
   |----------------------------------------+-----------+-------------|
-  | *Total*                                |      2395 |          23 |
+  | *Total*                                |      2420 |          23 |
   #+TBLFM: @9$2=vsum(@3$2..@8$2)::@9$3=vsum(@3$3..@8$3)
 * Tod
  | Slot         | Item                | Weight |
