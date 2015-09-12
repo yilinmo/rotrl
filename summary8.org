@@ -1,0 +1,15 @@
+* XP
+  900 xp, total 7800/10000xp
+* Contribution Point
+  | Hayls |  6 |
+  | Tod   | 10 |
+  | Jozan |  8 |
+  | Aias  |  6 |
+  | Maria |  0 |
+* Hero Point
+  | Sarah | 3/3 |
+  | Hayls | 2/3 |
+  | Maria | 1/3 |
+  | Tod   | 2/3 |
+  | Aias  | 3/3 |
+  | Jozan | 0/3 |

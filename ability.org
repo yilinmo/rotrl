@@ -32,7 +32,8 @@
      - Invisibility
      - Glittering Dust
      - Rope Trick
-
+** Consumable
+Wand of Magic Missile [37/50]
 * Jozan
 ** Class Ability
    - Channel Energy [0/4]
@@ -61,8 +62,7 @@
      - Magic Mouth
 
 ** Consumable 
-
-CLW [5/50]
+Wand of CLW [41/50]
 * Achi
 ** Lv 0
    - Known
@@ -97,14 +97,6 @@ CLW [5/50]
      - [ ]
      - [ ]
    - Lay on Hands [0/6]
-     - [ ]
-     - [ ]
-     - [ ]
-     - [ ]
-     - [ ]
-     - [ ]
-   - Channel Energy [0/7]
-     - [ ]
      - [ ]
      - [ ]
      - [ ]

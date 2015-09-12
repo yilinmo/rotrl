@@ -2,15 +2,18 @@
   | item                                   | value(gp) | weight(lbs) |
   |----------------------------------------+-----------+-------------|
   | +1 returning dagger, cold iron(tiny)   |     10000 |             |
-  | 940gp                                  |       940 |          19 |
-  | 4pp                                    |        40 |             |
+  | 1700gp                                 |      1700 |          34 |
+  | 14pp                                   |       110 |             |
   | Mwk Composite Longbow (+4 str)         |       800 |           3 |
   | +1 Elven Bane Arrow *4                 |       640 |             |
   | (+2 hit and +2d6 damage against elves) |           |             |
-  | Everburning torch                      |           |           1 |
+  | Everburning torch *2                   |           |           2 |
+  | +1 Bastard Sword                       |      2000 |           6 |
+  | Sihedron Medallion                     |           |             |
+  | Holy Symbol of Lamashtu                |       100 |             |
   |----------------------------------------+-----------+-------------|
-  | *Total*                                |      2420 |          23 |
-  #+TBLFM: @9$2=vsum(@3$2..@8$2)::@9$3=vsum(@3$3..@8$3)
+  | *Total*                                |     15350 |          45 |
+  #+TBLFM: @12$2=vsum(@2$2..@11$2)::@12$3=vsum(@2$3..@11$3)
 * Tod
  | Slot         | Item                | Weight |
  |--------------+---------------------+--------|
@@ -50,7 +53,7 @@
 * Jozan
  | Slot       | Item                 | Weight |
  |------------+----------------------+--------|
- | Armor      | Mwk Breastplate      |     30 |
+ | Armor      | +1 Breastplate       |     30 |
  | Shield     | +1 Darkwood Shield   |      5 |
  | Shoulder   | +1 Resistance Cloak  |      1 |
  | Weapon     |                      |        |
@@ -92,14 +95,16 @@
 * Sarah 
  | Slot       | Item                   | Weight |
  |------------+------------------------+--------|
+ | shoulders  | +1 Cloak of Resistance |      1 |
  | Weapon     |                        |        |
  |            | Staff                  |      5 |
  | Consumable |                        |        |
  |            | Scroll of Mage Armor*3 |        |
  |            | Scroll of Burning Hand |        |
+ |            | Wand of MM(37)         |      1 |
  | others     |                        |        |
  |            | Spell book             |      3 |
  |            | Spell component Pouch  |      2 |
  |------------+------------------------+--------|
- | *Total*    |                        |     10 |
- #+TBLFM: @10$3=vsum(@2..@9)
+ | *Total*    |                        |     12 |
+ #+TBLFM: @12$3=vsum(@2..@11)
