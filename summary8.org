@@ -3,7 +3,7 @@
 * Contribution Point
   | Hayls |  6 |
   | Tod   | 10 |
-  | Jozan |  8 |
+  | Jozan | 10 |
   | Aias  |  6 |
   | Maria |  0 |
 * Hero Point
