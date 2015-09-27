@@ -1,19 +1,12 @@
 * Shared
-  | item                                   | value(gp) | weight(lbs) |
-  |----------------------------------------+-----------+-------------|
-  | +1 returning dagger, cold iron(tiny)   |     10000 |             |
-  | 1700gp                                 |      1700 |          34 |
-  | 14pp                                   |       110 |             |
-  | Mwk Composite Longbow (+4 str)         |       800 |           3 |
-  | +1 Elven Bane Arrow *4                 |       640 |             |
-  | (+2 hit and +2d6 damage against elves) |           |             |
-  | Everburning torch *2                   |           |           2 |
-  | +1 Bastard Sword                       |      2000 |           6 |
-  | Sihedron Medallion                     |           |             |
-  | Holy Symbol of Lamashtu                |       100 |             |
-  |----------------------------------------+-----------+-------------|
-  | *Total*                                |     15350 |          45 |
-  #+TBLFM: @12$2=vsum(@2$2..@11$2)::@12$3=vsum(@2$3..@11$3)
+  | item                 | value(gp) | weight(lbs) |
+  |----------------------+-----------+-------------|
+  | 5530gp               |      5530 |         111 |
+  | Everburning torch *2 |           |           2 |
+  | Sihedron Medallion   |           |             |
+  |----------------------+-----------+-------------|
+  | *Total*              |      5530 |         113 |
+  #+TBLFM: @13$2=vsum(@2$2..@12$2)::@13$3=vsum(@2$3..@12$3)
 * Tod
  | Slot         | Item                | Weight |
  |--------------+---------------------+--------|
@@ -21,6 +14,8 @@
  | Shield       | +1 Heavy Wooden     |     10 |
  | Shoulder     | +1 Resistance Cloak |      1 |
  | Ring         | +1 Deflection       |        |
+ | Neck         | +1 Natural Armor    |        |
+ | Belt         | +2 Gaint Strength   |      1 |
  | Weapon       |                     |        |
  |              | Mwk Scimitar        |      4 |
  |              | Scimitar, Cold Iron |      4 |
@@ -30,7 +25,7 @@
  |              | Potion of CMW       |        |
  |              | Arrow*20            |      3 |
  |--------------+---------------------+--------|
- | *Total*      |                     |     60 |
+ | *Total*      |                     |     61 |
 #+TBLFM: @14$3=vsum(@2..@13)
 * Halys
  | Slot       | Item                      | Weight |
@@ -51,20 +46,39 @@
  | *Total*    |                           |     33 |
 #+TBLFM: @14$3=vsum(@2..@13)
 * Jozan
- | Slot       | Item                 | Weight |
- |------------+----------------------+--------|
- | Armor      | +1 Breastplate       |     30 |
- | Shield     | +1 Darkwood Shield   |      5 |
- | Shoulder   | +1 Resistance Cloak  |      1 |
- | Weapon     |                      |        |
- |            | Sling + Bullet       |      5 |
- |            | Morning Star         |      6 |
- |            | Dagger               |      1 |
- | Consumable |                      |        |
- |            | Scroll of CLW        |        |
- |            | CLW Wand (45 Charge) |        |
- |------------+----------------------+--------|
- | *Total*    |                      |     48 |
+ | Slot       | Item                   | Weight |
+ |------------+------------------------+--------|
+ | Armor      | +1 Breastplate         |     30 |
+ | Shield     | +1 Darkwood Shield     |      5 |
+ | Shoulder   | +1 Resistance Cloak    |      1 |
+ | Eye        | Eyes of the Eagle      |        |
+ | Weapon     |                        |        |
+ |            | Sling + Bullet         |      5 |
+ |            | Morning Star           |      6 |
+ |            | Dagger                 |      1 |
+ | Consumable |                        |        |
+ |            | Scroll of CLW          |        |
+ |            | CLW Wand (45 Charge)   |        |
+ |            | Bless*2                |        |
+ |            | Comprehend Languages*2 |        |
+ |            | Detect Undead*2        |        |
+ |            | Hide From Undead*2     |        |
+ |            | CL4 Hide From Undead*2 |        |
+ |            | Magic Weapon*10        |        |
+ |            | Obscuring Mist*4       |        |
+ |            | PFE*10                 |        |
+ |            | PFL*2                  |        |
+ |            | remove fear*4          |        |
+ |            | remove fear CL4 *2     |        |
+ |            | Sanctuary CL4 *4       |        |
+ |            | calm Emotion*2         |        |
+ |            | desecrate              |        |
+ |            | remove paralysis *2    |        |
+ |            | resist energy*2        |        |
+ |            | lesser restoration*2   |        |
+ |            | silence *2             |        |
+ |------------+------------------------+--------|
+ | *Total*    |                        |     48 |
 #+TBLFM: @12$3=vsum(@2..@11)
 * Aias
  | Slot       | Item                     | Weight |
@@ -84,18 +98,20 @@
  | Armor      | Mithral Chain Shirt    |     10 |
  | Shield     | Heavy Wooden Shield    |     10 |
  | shoulders  | +1 Cloak of Resistance |      1 |
+ | headband   | +2 Alluring Charisma   |      1 |
  | Weapon     |                        |        |
  |            | Longsword              |      4 |
  |            | Shortbow               |      2 |
  | Consumable |                        |        |
  |            | Arrow*20               |      3 |
  |------------+------------------------+--------|
- | *Total*    |                        |     30 |
+ | *Total*    |                        |     31 |
 #+TBLFM: @10$3=vsum(@2..@9)
 * Sarah 
  | Slot       | Item                   | Weight |
  |------------+------------------------+--------|
  | shoulders  | +1 Cloak of Resistance |      1 |
+ | Shield     | +1 Mithral Buckler     |    2.5 |
  | Weapon     |                        |        |
  |            | Staff                  |      5 |
  | Consumable |                        |        |
@@ -106,5 +122,5 @@
  |            | Spell book             |      3 |
  |            | Spell component Pouch  |      2 |
  |------------+------------------------+--------|
- | *Total*    |                        |     12 |
+ | *Total*    |                        |   14.5 |
  #+TBLFM: @12$3=vsum(@2..@11)
