@@ -32,6 +32,14 @@
      - Invisibility
      - Glittering Dust
      - Rope Trick
+** Lv 3
+   - Prepared [0/3]
+     - [ ] 
+     - [ ] 
+     - [ ] 
+   - In Book
+     - Summon Monster III
+     - Haste
 ** Consumable
 Wand of Magic Missile [37/50]
 * Jozan
@@ -60,9 +68,17 @@ Wand of Magic Missile [37/50]
    - Domain Spell
      - Secret Page
      - Magic Mouth
+** Lv 3
+   - Prepared [0/3]
+     - [ ]
+     - [ ]
+     - [ ] Domain
+   - Domain Spell
+     - Dispel Magic
+     - Glyph of Warding 
 
 ** Consumable 
-Wand of CLW [41/50]
+Wand of CLW [34/50]
 * Achi
 ** Lv 0
    - Known
@@ -79,6 +95,7 @@ Wand of CLW [41/50]
      - [ ]
      - [ ]
      - [ ]
+     - [ ]
    - Known
      - Grease
      - Hideous Laughter
@@ -86,20 +103,23 @@ Wand of CLW [41/50]
      - Expeditious Retreat
 ** Lv 2
    - Slot [0/2]
-     - [ ]
-     - [ ]
+     * [ ]
+     * [ ]
+     * [ ]
    - Known
-     - Glitter Dust: Will DC 16
-     - Hold Person: Will DC 16
+     * Glitter Dust: Will DC 16
+     * Hold Person: Will DC 16
+     * need to choose
 * Pally
 ** Class Ability
    - Smite Evil [0/2]
-     - [ ]
-     - [ ]
+     * [ ]
+     * [ ]
    - Lay on Hands [0/6]
-     - [ ]
-     - [ ]
-     - [ ]
-     - [ ]
-     - [ ]
-     - [ ]
+     * [ ]
+     * [ ]
+     * [ ]
+     * [ ]
+     * [ ]
+     * [ ]
+   - [ ] Divine Bond
