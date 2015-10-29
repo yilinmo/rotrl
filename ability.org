@@ -44,6 +44,14 @@
 Wand of Magic Missile [37/50]
 * Jozan
 ** Class Ability
+   - Bite of Luck [0/7]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
+     - [ ]
    - Channel Energy [0/4]
      - [ ]
      - [ ]
@@ -55,10 +63,9 @@ Wand of Magic Missile [37/50]
      - [ ] 
      - [ ] 
      - [ ] 
-     - [ ] Domain
+     - [ ] True Strike
    - Domain Spell
-     - Erase
-     - Identify
+     - True Strike
 ** Lv 2
    - Prepared [0/4]
      - [ ] 
@@ -66,16 +73,14 @@ Wand of Magic Missile [37/50]
      - [ ] 
      - [ ] Domain
    - Domain Spell
-     - Secret Page
-     - Magic Mouth
+     - Aid
 ** Lv 3
    - Prepared [0/3]
      - [ ]
      - [ ]
      - [ ] Domain
    - Domain Spell
-     - Dispel Magic
-     - Glyph of Warding 
+     - Protection From Energy
 
 ** Consumable 
 Wand of CLW [34/50]
