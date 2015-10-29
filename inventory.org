@@ -1,7 +1,7 @@
 * Shared
   | item                            | value(gp) | weight(lbs) | Comment                            |
   |---------------------------------+-----------+-------------+------------------------------------|
-  | 5530gp                          |      5700 |         114 |                                    |
+  | 5700gp                          |      5700 |         114 |                                    |
   | Everburning torch *2            |           |           2 |                                    |
   | Sihedron Medallion              |           |             |                                    |
   | +1 padded armor                 |      1000 |          10 |                                    |
@@ -24,7 +24,7 @@
  | Shoulder     | +1 Resistance Cloak |      1 |
  | Ring         | +1 Deflection       |        |
  | Neck         | +1 Natural Armor    |        |
- | Belt         | +2 Gaint Strength   |      1 |
+ | Belt         | +2 Giant Strength   |      1 |
  | Weapon       |                     |        |
  |              | Mwk Scimitar        |      4 |
  |              | Scimitar, Cold Iron |      4 |
