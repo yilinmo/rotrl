@@ -123,3 +123,6 @@ Wand of CLW [34/50]
      * [ ]
      * [ ]
    - [ ] Divine Bond
+   - Lv 1 Spell [0/2]
+     - [ ]
+     - [ ]
