@@ -1,10 +1,10 @@
 * XP
-  2100 xp, total 11000/10000xp
+  2100 xp, total 11000/15000xp
 * Contribution Point
   | Hayls |  7 |
   | Tod   |  2 |
-  | Jozan | 14 |
-  | Aias  | 14 |
+  | Jozan |  0 |
+  | Aias  | 16 |
   | Maria |  2 |
 * Hero Point
   | Sarah | 3/3 |
