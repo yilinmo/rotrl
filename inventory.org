@@ -1,7 +1,7 @@
 * Shared
   | item                            | value(gp) | weight(lbs) | Comment                            |
   |---------------------------------+-----------+-------------+------------------------------------|
-  | 5700gp                          |      5700 |         114 |                                    |
+  | 3700gp                          |      3700 |          74 |                                    |
   | Everburning torch *2            |           |           2 |                                    |
   | Sihedron Medallion              |           |             |                                    |
   | +1 padded armor                 |      1000 |          10 |                                    |
@@ -14,7 +14,7 @@
   | Potion of Gaseous form          |       750 |             |                                    |
   | 3400sp                          |       340 |          78 | Belongs to the dead farmer Hambley |
   |---------------------------------+-----------+-------------+------------------------------------|
-  | *Total*                         |     13155 |         206 |                                    |
+  | *Total*                         |     11155 |         166 |                                    |
   #+TBLFM: @14$2=vsum(@2$2..@13$2)::@14$3=vsum(@2$3..@13$3)
 * Tod
  | Slot         | Item                | Weight |
@@ -90,16 +90,16 @@
  | *Total*    |                        |     48 |
 #+TBLFM: @12$3=vsum(@2..@11)
 * Aias
- | Slot       | Item                     | Weight |
- |------------+--------------------------+--------|
- | Armor      | Chain Shirt              |     20 |
- | Weapon     |                          |        |
- |            | +1 Longsword             |      4 |
- |            | +1 str composite Longbow |      3 |
- | Consumable |                          |        |
- |            | Arrow*20                 |      3 |
- |------------+--------------------------+--------|
- | *Total*    |                          |     30 |
+ | Slot       | Item                          | Weight |
+ |------------+-------------------------------+--------|
+ | Armor      | Chain Shirt                   |     20 |
+ | Weapon     |                               |        |
+ |            | +1 Longsword                  |      4 |
+ |            | +1 composite Longbow (+1 str) |      3 |
+ | Consumable |                               |        |
+ |            | Arrow*20                      |      3 |
+ |------------+-------------------------------+--------|
+ | *Total*    |                               |     30 |
 #+TBLFM: @8$3=vsum(@2..@7)
 * Maria
  | Slot       | Item                   | Weight |
