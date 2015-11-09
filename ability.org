@@ -58,32 +58,32 @@ Wand of Magic Missile [37/50]
      - [ ]
      - [ ]
 ** Lv 1
-   - Prepared [0/5]
-     - [ ] 
-     - [ ] 
-     - [ ] 
-     - [ ] 
+   - Prepared [1/5]
+     - [ ] Hide From Undead
+     - [ ] Hide From Undead
+     - [ ] PFE
+     - [X] Sanctuary
      - [ ] True Strike
    - Domain Spell
      - True Strike
 ** Lv 2
    - Prepared [0/4]
-     - [ ] 
-     - [ ] 
-     - [ ] 
-     - [ ] Domain
+     - [ ] Remove Paralysis
+     - [ ] Remove Paralysis
+     - [ ] Consecrate
+     - [ ] Aid
    - Domain Spell
      - Aid
 ** Lv 3
-   - Prepared [0/3]
-     - [ ]
-     - [ ]
-     - [ ] Domain
+   - Prepared [1/3]
+     - [ ] Prayer
+     - [X] Magic Circle Against Evil
+     - [ ] Protection From Energy
    - Domain Spell
      - Protection From Energy
 
 ** Consumable 
-Wand of CLW [34/50]
+Wand of CLW [2/50]
 * Achi
 ** Lv 0
    - Known
@@ -107,21 +107,21 @@ Wand of CLW [34/50]
      - Cure light wounds
      - Expeditious Retreat
 ** Lv 2
-   - Slot [0/2]
-     * [ ]
+   - Slot [1/3]
+     * [X]
      * [ ]
      * [ ]
    - Known
      * Glitter Dust: Will DC 16
+     * Calm Emotion
      * Hold Person: Will DC 16
-     * need to choose
 * Pally
 ** Class Ability
    - Smite Evil [0/2]
      * [ ]
      * [ ]
-   - Lay on Hands [0/6]
-     * [ ]
+   - Lay on Hands [1/6]
+     * [X]
      * [ ]
      * [ ]
      * [ ]

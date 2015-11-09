@@ -66,7 +66,7 @@
  |            | Dagger                 |      1 |
  | Consumable |                        |        |
  |            | Scroll of CLW          |        |
- |            | CLW Wand (34 Charge)   |        |
+ |            | CLW Wand (2 Charge)    |        |
  |            | Bless*2                |        |
  |            | Comprehend Languages*2 |        |
  |            | Detect Undead*2        |        |
