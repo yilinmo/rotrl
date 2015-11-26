@@ -45,11 +45,11 @@ Wand of Magic Missile [13/50]
 * Jozan
 ** Class Ability
    - Bite of Luck [0/7]
-   - Channel Energy [0/4]
+   - Channel Energy [1/4]
 ** Lv 1
-   - Prepared [1/5]
-     - [ ] Hide From Undead
-     - [ ] Hide From Undead
+   - Prepared [3/5]
+     - [X] Hide From Undead
+     - [X] Hide From Undead
      - [ ] PFE
      - [X] Sanctuary
      - [ ] True Strike
@@ -72,7 +72,6 @@ Wand of Magic Missile [13/50]
      - Protection From Energy
 
 ** Consumable 
-Wand of CLW (already used/total) [48/50]
 * Achi
 ** Class Ability
    - Bardic Performance [1/16]
@@ -111,9 +110,9 @@ Wand of CLW (already used/total) [48/50]
    - Smite Evil [0/2]
      * [ ]
      * [ ]
-   - Lay on Hands [1/6]
+   - Lay on Hands [2/6]
      * [X]
-     * [ ]
+     * [X]
      * [ ]
      * [ ]
      * [ ]

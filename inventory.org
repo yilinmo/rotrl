@@ -71,7 +71,7 @@
  |            | Comprehend Languages*2 |        |
  |            | Detect Undead*2        |        |
  |            | Hide From Undead*2     |        |
- |            | CL4 Hide From Undead*2 |        |
+ |            | CL4 Hide From Undead   |        |
  |            | Magic Weapon*10        |        |
  |            | Obscuring Mist*4       |        |
  |            | PFE*10                 |        |
