@@ -33,8 +33,8 @@
      - Glittering Dust
      - Rope Trick
 ** Lv 3
-   - Prepared [0/3]
-     - [ ] Haste
+   - Prepared [1/3]
+     - [X] Haste
      - [ ] Haste
      - [ ] Summon Monster III
    - In Book
@@ -45,7 +45,7 @@ Wand of Magic Missile [13/50]
 * Jozan
 ** Class Ability
    - Bite of Luck [0/7]
-   - Channel Energy [1/4]
+   - Channel Energy [1/3]
 ** Lv 1
    - Prepared [3/5]
      - [X] Hide From Undead
@@ -64,8 +64,8 @@ Wand of Magic Missile [13/50]
    - Domain Spell
      - Aid
 ** Lv 3
-   - Prepared [1/3]
-     - [ ] Prayer
+   - Prepared [2/3]
+     - [X] Prayer
      - [X] Magic Circle Against Evil
      - [ ] Protection From Energy
    - Domain Spell
@@ -74,7 +74,7 @@ Wand of Magic Missile [13/50]
 ** Consumable 
 * Achi
 ** Class Ability
-   - Bardic Performance [1/16]
+   - Bardic Performance [2/16]
 ** Lv 0
    - Known
      - Dancing Light
@@ -107,8 +107,8 @@ Wand of Magic Missile [13/50]
      * Hold Person: Will DC 16
 * Pally
 ** Class Ability
-   - Smite Evil [0/2]
-     * [ ]
+   - Smite Evil [1/2]
+     * [X]
      * [ ]
    - Lay on Hands [2/6]
      * [X]
