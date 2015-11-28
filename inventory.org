@@ -5,16 +5,17 @@
   | Everburning torch *2            |           |           2 |         |
   | Sihedron Medallion              |           |             |         |
   | +1 padded armor                 |      1000 |          10 |         |
+  | +1 heavy pick                   |      2000 |           6 |         |
   | Masterwork Dagger *2            |       600 |           2 |         |
   | Wand of false life (29 left)    |      2610 |             |         |
   | Wand of identify (15 left)      |       225 |             |         |
   | Wand of gentle repose (17 left) |      1530 |             |         |
-  | Potion of CLW *2                |       100 |             |         |
+  | Potion of CLW                   |        50 |             |         |
   | Potion of CMW                   |       300 |             |         |
   | Potion of Gaseous form          |       750 |             |         |
   |---------------------------------+-----------+-------------+---------|
-  | *Total*                         |     10815 |          88 |         |
-  #+TBLFM: @13$2=vsum(@2$2..@12$2)::@13$3=vsum(@2$3..@12$3)
+  | *Total*                         |     12765 |          94 |         |
+  #+TBLFM: @14$2=vsum(@2$2..@13$2)::@14$3=vsum(@2$3..@13$3)
 * Tod
  | Slot         | Item                | Weight |
  |--------------+---------------------+--------|

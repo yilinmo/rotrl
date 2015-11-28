@@ -22,9 +22,9 @@
      - Obscuring Mist
      - Silent Image
 ** Lv 2
-   - Prepared [0/4]
-     - [ ] Invisibility
-     - [ ] Invisibility
+   - Prepared [2/4]
+     - [X] Invisibility
+     - [X] Invisibility
      - [ ] Web
      - [ ] Web
    - In Book
@@ -47,20 +47,20 @@ Wand of Magic Missile [13/50]
    - Bite of Luck [0/7]
    - Channel Energy [1/3]
 ** Lv 1
-   - Prepared [3/5]
+   - Prepared [4/5]
      - [X] Hide From Undead
      - [X] Hide From Undead
-     - [ ] PFE
+     - [X] PFE
      - [X] Sanctuary
      - [ ] True Strike
    - Domain Spell
      - True Strike
 ** Lv 2
-   - Prepared [1/4]
+   - Prepared [2/4]
      - [X] Remove Paralysis
      - [ ] Remove Paralysis
      - [ ] Consecrate
-     - [ ] Aid
+     - [X] Aid
    - Domain Spell
      - Aid
 ** Lv 3
@@ -74,7 +74,7 @@ Wand of Magic Missile [13/50]
 ** Consumable 
 * Achi
 ** Class Ability
-   - Bardic Performance [2/16]
+   - Bardic Performance [10/16]
 ** Lv 0
    - Known
      - Dancing Light
