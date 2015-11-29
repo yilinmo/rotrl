@@ -33,10 +33,10 @@
      - Glittering Dust
      - Rope Trick
 ** Lv 3
-   - Prepared [1/3]
+   - Prepared [3/3]
      - [X] Haste
-     - [ ] Haste
-     - [ ] Summon Monster III
+     - [X] Haste
+     - [X] Summon Monster III
    - In Book
      - Summon Monster III
      - Haste
@@ -74,7 +74,7 @@ Wand of Magic Missile [13/50]
 ** Consumable 
 * Achi
 ** Class Ability
-   - Bardic Performance [10/16]
+   - Bardic Performance [11/16]
 ** Lv 0
    - Known
      - Dancing Light
