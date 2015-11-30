@@ -45,7 +45,7 @@ Wand of Magic Missile [13/50]
 * Jozan
 ** Class Ability
    - Bite of Luck [2/7]
-   - Channel Energy [1/3]
+   - Channel Energy [1/1]
 ** Lv 1
    - Prepared [4/5]
      - [X] Hide From Undead
@@ -74,7 +74,7 @@ Wand of Magic Missile [13/50]
 ** Consumable 
 * Achi
 ** Class Ability
-   - Bardic Performance [11/16]
+   - Bardic Performance [13/16]
 ** Lv 0
    - Known
      - Dancing Light
@@ -85,11 +85,11 @@ Wand of Magic Missile [13/50]
      - Read Magic
        
 ** Lv 1
-   - Slot [3/5]
+   - Slot [4/5]
      - [X]
      - [X]
      - [X]
-     - [ ]
+     - [X]
      - [ ]
    - Known
      - Grease
@@ -107,14 +107,14 @@ Wand of Magic Missile [13/50]
      * Hold Person: Will DC 16
 * Pally
 ** Class Ability
-   - Smite Evil [1/2]
-     * [X]
-     * [ ]
-   - Lay on Hands [2/6]
+   - Smite Evil [2/2]
      * [X]
      * [X]
-     * [ ]
-     * [ ]
+   - Lay on Hands [4/6]
+     * [X]
+     * [X]
+     * [X]
+     * [X]
      * [ ]
      * [ ]
    - [X] Divine Bond
