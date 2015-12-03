@@ -83,7 +83,7 @@
  |            | desecrate              |        |
  |            | remove paralysis *2    |        |
  |            | resist energy*2        |        |
- |            | lesser restoration*2   |        |
+ |            | lesser restoration     |        |
  |            | silence *2             |        |
  |------------+------------------------+--------|
  | *Total*    |                        |     48 |
