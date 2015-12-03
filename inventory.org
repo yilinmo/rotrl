@@ -18,13 +18,14 @@
 * Tod
  | Slot         | Item                | Weight |
  |--------------+---------------------+--------|
- | Armor        | +1 Banded Mail      |     35 |
- | Shield       | +1 Heavy Wooden     |     10 |
+ | Armor        | +1 Full Place       |     50 |
+ | Shield       | +1 Light Wooden     |     10 |
  | Shoulder     | +1 Resistance Cloak |      1 |
  | Ring         | +1 Deflection       |        |
  | Neck         | +1 Natural Armor    |        |
  | Belt         | +2 Giant Strength   |      1 |
  | Weapon       |                     |        |
+ |              | +1 Scimita r        |      4 |
  |              | Mwk Scimitar        |      4 |
  |              | Scimitar, Cold Iron |      4 |
  |              | Longbow             |      3 |
@@ -33,7 +34,7 @@
  |              | Potion of CMW       |        |
  |              | Arrow*20            |      3 |
  |--------------+---------------------+--------|
- | *Total*      |                     |     61 |
+ | *Total*      |                     |     80 |
 #+TBLFM: @14$3=vsum(@2..@13)
 * Halys
  | Slot       | Item                      | Weight |
