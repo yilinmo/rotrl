@@ -12,9 +12,8 @@
   | Wand of gentle repose (17 left) |      1530 |             |         |
   | Potion of CLW                   |        50 |             |         |
   | Potion of CMW                   |       300 |             |         |
-  | Potion of Gaseous form          |       750 |             |         |
   |---------------------------------+-----------+-------------+---------|
-  | *Total*                         |     12765 |          94 |         |
+  | *Total*                         |     12015 |          94 |         |
   #+TBLFM: @14$2=vsum(@2$2..@13$2)::@14$3=vsum(@2$3..@13$3)
 * Tod
  | Slot         | Item                | Weight |
