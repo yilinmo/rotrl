@@ -18,7 +18,7 @@
 * Tod
  | Slot         | Item                | Weight |
  |--------------+---------------------+--------|
- | Armor        | +1 Full Place       |     50 |
+ | Armor        | +1 Full Plate       |     50 |
  | Shield       | +1 Light Wooden     |     10 |
  | Shoulder     | +1 Resistance Cloak |      1 |
  | Ring         | +1 Deflection       |        |
